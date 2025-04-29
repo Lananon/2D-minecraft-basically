@@ -4,7 +4,7 @@ extends Node2D
 
 var noise = FastNoiseLite.new()
 
-const noise_zoom = Vector2(0.5, 0.5)
+const noise_zoom = Vector2(0.5, 0.1)
 
 const noise_mult = 1.5
 
